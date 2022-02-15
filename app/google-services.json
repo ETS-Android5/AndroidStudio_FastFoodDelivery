@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "390901603133",
+    "project_id": "ensafood",
+    "storage_bucket": "ensafood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390901603133:android:0d69e0c5b219cfb8b60354",
+        "android_client_info": {
+          "package_name": "ma.ensaf.fast_food_application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390901603133-gum0glmhr8t2ihpjjj6hecmdqa3hhiuf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsACPweCJpTEAIsTDQGgE-hFOdHEF963E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390901603133-gum0glmhr8t2ihpjjj6hecmdqa3hhiuf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
